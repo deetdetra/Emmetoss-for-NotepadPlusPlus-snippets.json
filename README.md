@@ -11,8 +11,10 @@ snippets.json file after you have installed the plugin through the 'plugin manag
 Notepad++.
 
 to do:
+
 Check with emmet.io that this repo has not changed some of the standard shipped
-emmet.io codes docummented in the cheatsheet page
+emmet.io codes docummented in the cheatsheet page - at the momment it has added 
+only new snippets - 
 
 Check if its converted properly to unit like 'LF' - done
 
