@@ -14,7 +14,7 @@ to do:
 Check with emmet.io that this repo has not changed some of the standard shipped
 emmet.io codes docummented in the cheatsheet page
 
-Check if its converted properly to unit like 'cl'
+Check if its converted properly to unit like 'LF'
 
 
 -deet
